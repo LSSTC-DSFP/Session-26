@@ -18,16 +18,16 @@ Lectures were also delivered by the DSFP leadership team:
 
 Monday, Aug 24, 2026
 
-* 09:00 AM – 09:30 AM o Welcome to Session 26 
-* 09:30 AM – 10:15 AM o Lecture I: TBD; A Miller
-* 10:15 AM – 10:45 AM o BREAK
-* 10:45 AM – 12:00 PM o Problem I: TBD; A Miller
-* 12:00 PM – 01:30 PM o LUNCH
-* 01:00 PM – 03:30 PM o Lecture II: TBD; A Miller
-* 03:30 PM – 04:00 PM o BREAK
-* 04:00 PM – 06:00 PM o Lecture III: TBD; A Miller
+ * 09:00 AM – 09:30 AM o Welcome to Session 26
+ * 09:30 AM – 10:15 AM o Lecture I: TBD; A Miller
+ * 10:15 AM – 10:45 AM o BREAK
+ * 10:45 AM – 12:00 PM o Problem I: TBD; A Miller
+ * 12:00 PM – 01:30 PM o LUNCH
+ * 01:00 PM – 03:30 PM o Lecture II: TBD; A Miller
+ * 03:30 PM – 04:00 PM o BREAK
+ * 04:00 PM – 06:00 PM o Lecture III: TBD; A Miller
 
-* 06:30 PM - ???? o Group dinner (on the beach!)
+ * 06:30 PM - ???? o Group dinner (on the beach!)
 
 ## Day 2 – Communication Science or Science Communication or Both?!
 
