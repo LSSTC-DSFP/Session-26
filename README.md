@@ -19,14 +19,15 @@ Lectures were also delivered by the DSFP leadership team:
 Monday, Aug 26, 2026
 
 * 09:00 AM – 09:30 AM o Welcome to Session 26
-* 09:30 AM – 10:15 AM o Lecture I: Can You Worry About the Data if You Don't Look At the Data?; A Miller
+* 09:30 AM – 10:15 AM o Lecture I: [Can You Worry About the Data if You Don't Look At the Data?](Day1/CanYouWorryAboutTheDataIfYouDontLookAtTheData.ipynb); A Miller
 * 10:15 AM – 10:45 AM o BREAK
-* 10:45 AM – 12:00 PM o Problem I: Is the "Default" Ever the Correct Choice?; A Miller
+* 10:45 AM – 12:00 PM o Problem I: [Is the "Default" Ever the Correct Choice?](Day1/IsDefaultCorrectChoice.ipynb) | [Solutions](Day1/IsDefaultCorrectChoiceSolutions.ipynb); A Miller
 * 12:00 PM – 01:30 PM o LUNCH
-* 01:00 PM – 02:00 PM o Lecture II: Visualization Considerations Specific To Astronomy; A Miller
-* 02:00 PM – 03:30 PM o Problem II: Building Skymaps and False Color Images; A Miller
-* 03:30 PM – 04:00 PM o BREAK
-* 04:00 PM – 06:00 PM o Lecture III: Interactive Plotting; A Miller
+* 01:30 PM – 02:30 PM o Lecture II: [Visualization Considerations Specific To Astronomy](Day1/VisualizationConsiderationsForAstronomy.ipynb); A Miller
+* 02:30 PM – 04:00 PM o Problem II: [Building Skymaps and False Color Images](Day1/SkymapsAndFalseColor.ipynb) | [Solutions](Day1/SkymapsAndFalseColorSolutions.ipynb); A Miller
+* 04:00 PM – 04:30 PM o BREAK
+* 04:30 PM – 05:00 PM o Lecture III: [Interactive Plotting](Day1/InteractivePlotting.ipynb); A Miller
+* 05:00 PM – 06:00 PM o Problem III: [Introduction to Plotly](Day1/IntroductionToPlotly.ipynb); A Miller
 * 06:30 PM - ???? o Group dinner (on the beach!)
 
 ## Day 2 – Communication Science or Science Communication or Both?!
@@ -49,10 +50,10 @@ Wednesday, Aug 26, 2026
 * 10:30 AM – 11:00 AM o BREAK
 * 11:00 AM – 12:00 PM o Lecture VIII: Principles of Perception; P Rosen
 * 12:00 PM – 01:30 PM o LUNCH
-* 01:30 PM – 03:00 PM o Problem III: Principles of Perception; P Rosen
+* 01:30 PM – 03:00 PM o Problem IV: Principles of Perception; P Rosen
 * 03:00 PM – 03:30 PM o BREAK
 * 03:30 PM – 04:30 PM o Lecture IX: Data Exploration and Communication; P Rosen
-* 04:30 PM – 06:00 PM o Problem IV: Misleading Data Visualizations; P Rosen
+* 04:30 PM – 06:00 PM o Problem V: Misleading Data Visualizations; P Rosen
 
 ## Day 4 – Avatar Day - the Strengths and Limitations of 3D
 
@@ -60,7 +61,7 @@ Thursday, Aug 27, 2026
 
 * 09:00 AM – 10:30 AM o Lecture X: 3D and Web-Based Visualization; A Geller
 * 10:30 AM – 11:00 AM o BREAK
-* 11:00 AM – 12:00 PM o Problem V: Firefly; A Geller
+* 11:00 AM – 12:00 PM o Problem VI: Firefly; A Geller
 * 12:00 PM – ??:?? PM o BREAK
 
 ## Day 5 – Hack Day
