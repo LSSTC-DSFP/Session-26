@@ -40,7 +40,8 @@ Tuesday, Aug 25, 2026
 * 12:00 PM – 01:30 PM o LUNCH
 * 01:30 PM – 04:30 PM o Lecture V: Presenting Your Research Effectively; L Walkowicz
 * 04:30 PM – 05:00 PM o BREAK
-* 05:00 PM – 06:00 PM o Lecture VI: Building Better Slides via Principles of Design; A Miller
+* 05:00 PM – 05:15 PM o Lecture VI: [Building Better Slides via Principles of Design](Day2/BuildingBetterSlidesViaPrinciplesOfDesign.pdf); A Miller
+* 05:15 PM – 06:00 PM o Problem IV: [Build Better Slides](Day2/BuildBetterSlidesProblem.md); A Miller
 
 ## Day 3 – Communication Vis A Vis Visualization
 
@@ -48,18 +49,18 @@ Wednesday, Aug 26, 2026
 
 * 09:00 AM – 10:30 AM o Lecture VII: Building a Professional Network; L Walkowicz
 * 10:30 AM – 11:00 AM o BREAK
-* 11:00 AM – 12:00 PM o Lecture VIII: Principles of Perception; P Rosen
+* 11:00 AM – 12:00 PM o Lecture VIII (part 1): [Principles of Perception & Visualization](Day3/PrinciplesPerceptionVisualization.pdf) – visual perception; P Rosen
 * 12:00 PM – 01:30 PM o LUNCH
-* 01:30 PM – 03:00 PM o Problem IV: Principles of Perception; P Rosen
+* 01:30 PM – 03:00 PM o Lecture VIII (part 2): [Principles of Perception & Visualization](Day3/PrinciplesPerceptionVisualization.pdf) – building visualizations with color; P Rosen
 * 03:00 PM – 03:30 PM o BREAK
-* 03:30 PM – 04:30 PM o Lecture IX: Data Exploration and Communication; P Rosen
-* 04:30 PM – 06:00 PM o Problem V: Misleading Data Visualizations; P Rosen
+* 03:30 PM – 04:30 PM o Lecture IX: [Visual Exploration, Design, and (Accurate) Communication](Day3/VisualExplorationDesignAndAccurateCommunication.pdf); P Rosen
+* 04:30 PM – 06:00 PM o Problem V: [The Headline Says It All](Day3/HeadlineSaysItAll.pdf); P Rosen
 
 ## Day 4 – Avatar Day - the Strengths and Limitations of 3D
 
 Thursday, Aug 27, 2026
 
-* 09:00 AM – 10:30 AM o Lecture X: 3D and Web-Based Visualization; A Geller
+* 09:00 AM – 10:30 AM o Lecture X: Firefly: an Interactive Browser-Based Vis Tool for Particle Data; A Geller
 * 10:30 AM – 11:00 AM o BREAK
 * 11:00 AM – 12:00 PM o Problem VI: Firefly; A Geller
 * 12:00 PM – ??:?? PM o BREAK
