@@ -2,9 +2,9 @@
 
 Thursday, Aug 27, 2026
 
-* 09:00 AM – 10:30 AM o Lecture X: Firefly: an Interactive Browser-Based Vis Tool for Particle Data; A Geller
+* 09:00 AM – 10:30 AM o Lecture X: [Firefly: an Interactive Browser-Based Vis Tool for Particle Data](DSFP2026_firefly_presentation.pdf); A Geller
 * 10:30 AM – 11:00 AM o BREAK
-* 11:00 AM – 12:00 PM o Problem VI: Firefly; A Geller
+* 11:00 AM – 12:00 PM o Problem VI: [Firefly](minimal_firefly_example.ipynb) | [Solutions](example_exercise_solution/firefly_gaia_data_example.ipynb); A Geller
 * 12:00 PM – ??:?? PM o BREAK
 
 ## Workshop on Firefly
