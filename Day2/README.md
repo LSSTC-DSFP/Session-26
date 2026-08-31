@@ -8,4 +8,5 @@ Tuesday, Aug 25, 2026
 * 12:00 PM – 01:30 PM o LUNCH
 * 01:30 PM – 04:30 PM o Lecture V: Presenting Your Research Effectively; L Walkowicz
 * 04:30 PM – 05:00 PM o BREAK
-* 05:00 PM – 06:00 PM o Lecture VI: Building Better Slides via Principles of Design; A Miller
+* 05:00 PM – 05:15 PM o Lecture VI: [Building Better Slides via Principles of Design](BuildingBetterSlidesViaPrinciplesOfDesign.pdf); A Miller
+* 05:15 PM – 06:00 PM o Problem IV: [Build Better Slides](BuildBetterSlidesProblem.md); A Miller

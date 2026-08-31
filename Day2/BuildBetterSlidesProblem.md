@@ -5,3 +5,7 @@
 2. Develop *at least* 3 different solutions to problem 1. 
 
 3. Choose the two best solutions from problem 2 and solicit feedback from your partner to determine which is best. 
+
+
+As you do this work, do not forget about "Slide Mapping" (from the Presenting Your Research Effectively lecture)
+  -  Take your content ladder, and start mapping it onto slides. What is the message that each slide conveys? What pieces of information does each slide need?
